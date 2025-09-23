@@ -1,0 +1,3 @@
+Following is the list of programs covered in this section
+1. WAP to reverse string without using in-built function
+2. WAP to find length of string without using in-built function
