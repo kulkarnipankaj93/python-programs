@@ -1,0 +1,2 @@
+Following is the list of programs covered in this section
+1. WAP to generate list of random 10 numbers from 1 to 50.
