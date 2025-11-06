@@ -1,3 +1,4 @@
 Following is the list of programs covered in this section
 1. WAP to generate list of random 10 numbers from 1 to 50.
 2. WAP to find out whether a number is a prime number or not?
+3. WAP to generate fibonacci series.
