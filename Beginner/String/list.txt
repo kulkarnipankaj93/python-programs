@@ -2,3 +2,4 @@ Following is the list of programs covered in this section
 1. WAP to reverse string without using in-built function
 2. WAP to find length of string without using in-built function
 3. WAP to find and count vowels in the given string
+4. WAP to find if the string is palindrome or not
