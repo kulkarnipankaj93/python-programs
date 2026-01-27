@@ -4,3 +4,4 @@ Following is the list of programs covered in this section
 3. WAP to generate fibonacci series.
 4. Basic calculator program
 5. WAP to swap values of two variables without using third variable
+6. WAP to print table of given number
